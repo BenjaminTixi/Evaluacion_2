@@ -1,0 +1,74 @@
+nav{
+    background-color: #37bf9d;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+#Logo{
+    margin-left: 100px;
+}
+
+#Titulo{
+    font-size: 60px;
+    color: #3b3f3f;
+    font-weight: bold;
+}
+
+#boton{
+    display: flex;
+    background-color: #3b3f3f;
+    color: whitesmoke;
+    padding: 20px;
+    text-decoration:none;
+    font-size: 20px;
+    border-radius: 20px;
+    margin: 0px;
+}
+
+/* navbar */
+
+#carrusel{
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#acerca{
+    padding: 25px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    display: center;
+}
+
+#carta1{
+    background-color:  #3b3f3f;
+    color: whitesmoke;
+}
+
+#carta2{
+    background-color: #37bf9d;
+}
+
+#carta3{
+    background-color:  #3b3f3f;
+    color: whitesmoke;
+}
+
+#contenedor1{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+#contenedor2{
+    color: whitesmoke;
+    font-size: 20px;
+    margin-right: 25px;
+    text-decoration: none;
+    margin-bottom: 100px;
+}
